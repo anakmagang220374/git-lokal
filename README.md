@@ -1,0 +1,2 @@
+# git-lokal
+"push pertama"
